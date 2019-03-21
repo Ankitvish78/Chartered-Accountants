@@ -414,7 +414,7 @@ section
 }
 .logo
 {
-	padding-left: 63px;
+	padding-left: 100px;
 }
 .logo_line_1
 {
@@ -432,8 +432,8 @@ section
 }
 .logo_line_2
 {
-	font-size: 11px;
-	color: #909090;
+	font-size: 18px;
+	color: #ff4000;
 	margin-top: -1px;
 	padding-left: 1px;
 }
@@ -442,7 +442,7 @@ section
 	position: absolute;
 	left: 0;
 	top: -10px;
-	width: 57px;
+	width: 87px;
 	height: 38px;
 }
 .logo_img img
